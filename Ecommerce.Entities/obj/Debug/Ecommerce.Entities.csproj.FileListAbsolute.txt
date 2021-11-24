@@ -1,0 +1,6 @@
+E:\Binod\self\E-Commerce\ecommerceV1\EcommerceV1\Ecommerce.Entities\bin\Debug\Ecommerce.Entities.dll
+E:\Binod\self\E-Commerce\ecommerceV1\EcommerceV1\Ecommerce.Entities\bin\Debug\Ecommerce.Entities.pdb
+E:\Binod\self\E-Commerce\ecommerceV1\EcommerceV1\Ecommerce.Entities\obj\Debug\Ecommerce.Entities.csproj.AssemblyReference.cache
+E:\Binod\self\E-Commerce\ecommerceV1\EcommerceV1\Ecommerce.Entities\obj\Debug\Ecommerce.Entities.csproj.CoreCompileInputs.cache
+E:\Binod\self\E-Commerce\ecommerceV1\EcommerceV1\Ecommerce.Entities\obj\Debug\Ecommerce.Entities.dll
+E:\Binod\self\E-Commerce\ecommerceV1\EcommerceV1\Ecommerce.Entities\obj\Debug\Ecommerce.Entities.pdb
