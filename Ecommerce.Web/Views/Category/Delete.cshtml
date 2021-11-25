@@ -1,0 +1,21 @@
+﻿
+@model Ecommerce.Entities.Category
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Are You Want To Delte This? </h3>
+
+<form method="post" action="/Category/ConformDelete">
+    <input name="Id" value="@Model.Id" hidden />
+    <label>Name: @Model.Name</label>
+
+    <br />
+    <label>Description: @Model.Description</label>
+
+    <br />
+    <button type="submit">Yes Delete</button>
+</form>

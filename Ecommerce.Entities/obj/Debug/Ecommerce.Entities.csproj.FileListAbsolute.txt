@@ -4,3 +4,9 @@ E:\Binod\self\E-Commerce\ecommerceV1\EcommerceV1\Ecommerce.Entities\obj\Debug\Ec
 E:\Binod\self\E-Commerce\ecommerceV1\EcommerceV1\Ecommerce.Entities\obj\Debug\Ecommerce.Entities.csproj.CoreCompileInputs.cache
 E:\Binod\self\E-Commerce\ecommerceV1\EcommerceV1\Ecommerce.Entities\obj\Debug\Ecommerce.Entities.dll
 E:\Binod\self\E-Commerce\ecommerceV1\EcommerceV1\Ecommerce.Entities\obj\Debug\Ecommerce.Entities.pdb
+E:\Binod\self\E-Commerce\ecommerceV1\EcommerceV1\Ecommerce.Entities\bin\Debug\Ecommerce.Entities.dll.config
+E:\Binod\self\E-Commerce\ecommerceV1\EcommerceV1\Ecommerce.Entities\bin\Debug\EntityFramework.dll
+E:\Binod\self\E-Commerce\ecommerceV1\EcommerceV1\Ecommerce.Entities\bin\Debug\EntityFramework.SqlServer.dll
+E:\Binod\self\E-Commerce\ecommerceV1\EcommerceV1\Ecommerce.Entities\bin\Debug\EntityFramework.xml
+E:\Binod\self\E-Commerce\ecommerceV1\EcommerceV1\Ecommerce.Entities\bin\Debug\EntityFramework.SqlServer.xml
+E:\Binod\self\E-Commerce\ecommerceV1\EcommerceV1\Ecommerce.Entities\obj\Debug\Ecommerce.Entities.csproj.CopyComplete

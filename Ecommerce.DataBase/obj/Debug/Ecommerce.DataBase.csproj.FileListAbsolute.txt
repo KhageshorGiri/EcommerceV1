@@ -13,3 +13,5 @@ E:\Binod\self\E-Commerce\ecommerceV1\EcommerceV1\Ecommerce.DataBase\obj\Debug\Ec
 E:\Binod\self\E-Commerce\ecommerceV1\EcommerceV1\Ecommerce.DataBase\obj\Debug\Ecommerce.DataBase.pdb
 E:\Binod\self\E-Commerce\ecommerceV1\EcommerceV1\Ecommerce.DataBase\obj\Debug\Ecommerce.DataBase.Migrations.initilized.resources
 E:\Binod\self\E-Commerce\ecommerceV1\EcommerceV1\Ecommerce.DataBase\obj\Debug\Ecommerce.DataBase.csproj.GenerateResource.cache
+E:\Binod\self\E-Commerce\ecommerceV1\EcommerceV1\Ecommerce.DataBase\bin\Debug\Ecommerce.Entities.dll.config
+E:\Binod\self\E-Commerce\ecommerceV1\EcommerceV1\Ecommerce.DataBase\obj\Debug\Ecommerce.DataBase.csproj.CopyComplete

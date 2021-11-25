@@ -1,0 +1,17 @@
+E:\Binod\self\E-Commerce\ecommerceV1\EcommerceV1\Ecommerce.Services\bin\Debug\Ecommerce.Services.dll.config
+E:\Binod\self\E-Commerce\ecommerceV1\EcommerceV1\Ecommerce.Services\bin\Debug\Ecommerce.Services.dll
+E:\Binod\self\E-Commerce\ecommerceV1\EcommerceV1\Ecommerce.Services\bin\Debug\Ecommerce.Services.pdb
+E:\Binod\self\E-Commerce\ecommerceV1\EcommerceV1\Ecommerce.Services\bin\Debug\Ecommerce.DataBase.dll
+E:\Binod\self\E-Commerce\ecommerceV1\EcommerceV1\Ecommerce.Services\bin\Debug\Ecommerce.Entities.dll
+E:\Binod\self\E-Commerce\ecommerceV1\EcommerceV1\Ecommerce.Services\bin\Debug\EntityFramework.dll
+E:\Binod\self\E-Commerce\ecommerceV1\EcommerceV1\Ecommerce.Services\bin\Debug\EntityFramework.SqlServer.dll
+E:\Binod\self\E-Commerce\ecommerceV1\EcommerceV1\Ecommerce.Services\bin\Debug\Ecommerce.DataBase.pdb
+E:\Binod\self\E-Commerce\ecommerceV1\EcommerceV1\Ecommerce.Services\bin\Debug\Ecommerce.DataBase.dll.config
+E:\Binod\self\E-Commerce\ecommerceV1\EcommerceV1\Ecommerce.Services\bin\Debug\Ecommerce.Entities.pdb
+E:\Binod\self\E-Commerce\ecommerceV1\EcommerceV1\Ecommerce.Services\bin\Debug\EntityFramework.xml
+E:\Binod\self\E-Commerce\ecommerceV1\EcommerceV1\Ecommerce.Services\bin\Debug\EntityFramework.SqlServer.xml
+E:\Binod\self\E-Commerce\ecommerceV1\EcommerceV1\Ecommerce.Services\obj\Debug\Ecommerce.Services.csproj.AssemblyReference.cache
+E:\Binod\self\E-Commerce\ecommerceV1\EcommerceV1\Ecommerce.Services\obj\Debug\Ecommerce.Services.csproj.CoreCompileInputs.cache
+E:\Binod\self\E-Commerce\ecommerceV1\EcommerceV1\Ecommerce.Services\obj\Debug\Ecommerce.Services.dll
+E:\Binod\self\E-Commerce\ecommerceV1\EcommerceV1\Ecommerce.Services\obj\Debug\Ecommerce.Services.pdb
+E:\Binod\self\E-Commerce\ecommerceV1\EcommerceV1\Ecommerce.Services\bin\Debug\Ecommerce.Entities.dll.config
