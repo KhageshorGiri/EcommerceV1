@@ -86,7 +86,6 @@ E:\Binod\self\E-Commerce\ecommerceV1\EcommerceV1\Ecommerce.Web\bin\Ecommerce.Ser
 E:\Binod\self\E-Commerce\ecommerceV1\EcommerceV1\Ecommerce.Web\bin\Ecommerce.DataBase.pdb
 E:\Binod\self\E-Commerce\ecommerceV1\EcommerceV1\Ecommerce.Web\bin\Ecommerce.DataBase.dll.config
 E:\Binod\self\E-Commerce\ecommerceV1\EcommerceV1\Ecommerce.Web\bin\EntityFramework.xml
-E:\Binod\self\E-Commerce\ecommerceV1\EcommerceV1\Ecommerce.Web\obj\Debug\Ecommerce.Web.csproj.CopyComplete
 E:\Binod\self\E-Commerce\ecommerceV1\EcommerceV1\Ecommerce.Web\bin\Ecommerce.Entities.dll.config
 E:\Binod\self\E-Commerce\ecommerceV1\EcommerceV1\Ecommerce.Web\bin\EntityFramework.SqlServer.dll
 E:\Binod\self\E-Commerce\ecommerceV1\EcommerceV1\Ecommerce.Web\bin\EntityFramework.SqlServer.xml

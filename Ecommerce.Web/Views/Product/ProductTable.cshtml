@@ -1,0 +1,95 @@
+﻿
+@model IEnumerable<Ecommerce.Entities.Product>
+
+@{
+    ViewBag.Title = "ProductTable";
+
+
+    // we can complete null layout process by returning partial view only.
+}
+
+<div id="ProductTablePartialView">
+
+
+    <h4>
+        <button id="createNew">Create New</button>
+    </h4>
+
+    <div>
+        <input id="searchForm" name="serchForm" />
+        <button id="searchBtn">Search</button>
+    </div>
+
+
+    <h2>ProductTable</h2>
+    <hr />
+
+    <div>
+
+        <table id="productTable">
+            <thead>
+                <tr>
+                    <th>Product</th>
+                    <th>Category</th>
+                    <th>Description</th>
+                    <th>Price</th>
+                    <th>Action</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var product in Model)
+                {
+                    <tr>
+                        <td>@product.Name</td>
+                        <td>-</td>
+                        <td>@product.Description</td>
+                        <td>@product.Price</td>
+                        <td>
+                            <button>Edit</button>
+                            <button>Delete</button>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+    </div>
+</div>
+
+
+    <script>
+
+        $(document).ready(function () {
+
+            $("#searchBtn").click(function () {
+                var search = $("#searchForm").val();
+
+                $.ajax({
+                    url: '/product/ProductTable',
+                    method: 'POST',
+                    data: {
+                        search: search
+                    },
+                    success: function (response) {
+                        $("#ProductTablePartialView").html(response);
+                    },
+                    error: function () {
+                        alert("Error Occured!");
+                    }
+                });
+                @*.done(function (response) {
+                        alert(response);
+                        // $("#productTable").html(response);
+                })
+                .fail(function () {
+                    alert("Error Occured!");
+                });*@
+                    
+            });
+
+
+
+
+        });
+
+    </script>
